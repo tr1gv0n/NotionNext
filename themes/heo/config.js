@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tr1gv0n.com' },
-    { title: '撸羊毛', url: 'https://ark.tr1gv0n.com' },
+    { title: '欢迎来到我的博客', url: 'https://blog.milkcoff.com' },
+    { title: '撸羊毛', url: 'https://ark.milkcoff.com' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -17,10 +17,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TR1GV0N.COM',
+  HEO_HERO_TITLE_3: 'MILKCOFF.COM',
   HEO_HERO_TITLE_4: '探索AI',
   HEO_HERO_TITLE_5: '让生活更美好',
-  HEO_HERO_TITLE_LINK: 'https://tr1gv0n.com',
+  HEO_HERO_TITLE_LINK: 'https://milkcoff.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -108,7 +108,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://blog.tr1gv0n.com',
+  HEO_SOCIAL_CARD_URL: 'https://blog.milkcoff.com',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
